@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>prada_Screenshot 2023-12-16 014505 (22).png</filename>
+	<path>C:\Users\siddh\TF2\models\research\object_detection\images\train\prada_Screenshot 2023-12-16 014505 (22).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>222</width>
+		<height>220</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prada_paradoxe</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>222</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

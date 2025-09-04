@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>lancome_le_belleScreenshot 2023-12-16 011452 (20).png</filename>
+	<path>C:\Users\siddh\TF2\models\research\object_detection\images\test\lancome_le_belleScreenshot 2023-12-16 011452 (20).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>152</width>
+		<height>184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lancome_la_vie_est_belle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>9</ymin>
+			<xmax>143</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

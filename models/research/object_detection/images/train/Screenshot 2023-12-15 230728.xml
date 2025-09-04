@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Screenshot 2023-12-15 230728.png</filename>
+	<path>C:\Users\siddh\TF2\models\research\object_detection\images\train\Screenshot 2023-12-15 230728.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>97</width>
+		<height>160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>armani_my_way_floral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>11</ymin>
+			<xmax>91</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

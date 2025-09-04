@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Screenshot 2023-12-16 025536.png</filename>
+	<path>C:\Users\siddh\TF2\models\research\object_detection\images\train\Screenshot 2023-12-16 025536.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>176</width>
+		<height>207</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ysl_black_opium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>18</ymin>
+			<xmax>175</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

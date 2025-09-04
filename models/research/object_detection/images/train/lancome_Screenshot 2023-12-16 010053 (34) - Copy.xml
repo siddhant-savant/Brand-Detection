@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>lancome_Screenshot 2023-12-16 010053 (34) - Copy.png</filename>
+	<path>C:\Users\siddh\TF2\models\research\object_detection\images\train\lancome_Screenshot 2023-12-16 010053 (34) - Copy.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>803</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lancome_la_vie_est_belle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>17</ymin>
+			<xmax>598</xmax>
+			<ymax>802</ymax>
+		</bndbox>
+	</object>
+</annotation>

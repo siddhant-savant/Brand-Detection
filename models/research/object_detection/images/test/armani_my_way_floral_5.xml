@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>armani_my_way_floral_5.png</filename>
+	<path>C:\Users\siddh\TF2\models\research\object_detection\images\test\armani_my_way_floral_5.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>228</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>armani_my_way_floral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>9</ymin>
+			<xmax>225</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>

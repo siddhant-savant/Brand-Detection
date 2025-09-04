@@ -1,0 +1,20 @@
+item {
+    id: 1
+    name: 'dior_miss_dior'
+}
+item {
+    id: 2
+    name: 'armani_my_way_floral'
+}
+item {
+    id: 3
+    name: 'lancome_la_vie_est_belle'
+}
+item {
+    id: 4
+    name: 'prada_paradoxe'
+}
+item {
+    id: 5
+    name: 'ysl_black_opium'
+}

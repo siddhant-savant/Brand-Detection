@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>dior_missScreenshot 2023-12-16 002557 (28).png</filename>
+	<path>C:\Users\siddh\TF2\models\research\object_detection\images\train\dior_missScreenshot 2023-12-16 002557 (28).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>158</width>
+		<height>190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dior_miss_dior</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>19</ymin>
+			<xmax>143</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>
