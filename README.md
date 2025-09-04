@@ -1,27 +1,65 @@
-Brand Detection & Market Analytics
+# **Machine Learning based Brand Detection & Market Analytics**
 
-This project integrates web scraping, machine learning, and data analytics to provide actionable insights for brands in the e-commerce space.
+## **Overview**
 
-Data Collection: Daily web scraping from e-commerce retailers to capture product, price, and availability data.
+This project was developed as part of my MSc Data Science dissertation. It leverages web scraping, machine learning, and data analytics to help brands monitor and optimize their presence in the e-commerce marketplace. It integrates automated data collection, object detection, and KPI analysis to provide actionable insights on stock availability, pricing, and brand visibility.
 
-Object Detection: TensorFlow 2 with architectures like ResNet50 and EfficientDet D2 to identify and classify products from images.
+### **Features**
 
-Implementation:
+  - Automated Web Scraping: Collects daily product, price, and availability data from major from e-commerce retailers.
 
-Image labeling with LabelImg
+  - Object Detection: TensorFlow 2 with ResNet50 and EfficientDet D2 architectures to detect and classify products from images.
 
-Model training in TensorFlow 2 (Anaconda environment)
+### **KPI Analysis:**
 
-Automated detection for brand monitoring
+  - Stock Monitoring
 
-Analysis & KPIs:
+  - Price Tracking
 
-Stock Monitoring → track product availability
+  - Share of Shelf
 
-Price Tracking → monitor pricing changes
+  - Brand Exposure
 
-Share of Shelf → measure brand visibility vs. competitors
+### **Insights:**
 
-Key findings show stable pricing and reliable stock availability across major retailers, while also addressing challenges like intermittent data gaps.
+  - Identify trends, compare competitor performance, and monitor brand exposure over time with the use of machine learning models.
 
-Future work: predictive pricing models, expansion to additional retailers/brands, and deeper exploration of market dynamics.
+### **Installation**
+
+Clone the repository:
+
+    git clone https://github.com/siddhant-savant/Brand-Detection.git
+    cd Brand-Detection
+
+
+Create and activate a Python environment (Anaconda recommended):
+
+    conda create -n brand_detection python=3.8
+    conda activate brand_detection
+
+### **Usage**
+
+  - Web Scraping: Run scripts in the Scripts/ folder to collect daily product data.
+
+  - Model Training: Label images using LabelImg
+
+  - Train object detection models in TensorFlow 2 using the provided scripts
+
+  - Analysis: Generate business intelligence (BI) analytics using KPIs such as stock availability, pricing trends, and share of shelf metrics to derive actionable insights.
+
+### **Folder Structure**
+
+        Brand-Detection/
+        │
+        ├── models/           # Object detection model files
+        └── Scripts/          # Python scripts for scraping data and sample output files
+
+### **Future Work**
+
+  - Predictive modeling for pricing trends
+
+  - Expansion to additional retailers and brands
+
+  - Improved object detection using more advanced architectures
+
+  - Automating alerts for stock and price changes
