@@ -1,0 +1,6 @@
+Product_Category,Product_Subcategory,Product_Brand,Product_Name,Product_Price,Size,Stock_Status,Product_Availability,Sku_Id,Brand_Status,Date,Retailer
+Fragrance,Womens Fragrance,DIOR,Miss Dior eau de parfum for women,93.90,50 ml,In stock,In stock,16086004,Dior,2023-11-12,Notino
+Fragrance,Womens Fragrance,Yves Saint Laurent,Black Opium eau de parfum for women,58.80,50 ml,In stock,In stock,451793,Competitor,2023-11-12,Notino
+Fragrance,Womens Fragrance,Armani,My Way Floral eau de parfum refillable for women,84.30,50 ml,In stock,In stock,16125478,Competitor,2023-11-12,Notino
+Fragrance,Womens Fragrance,Lancôme,La Vie Est Belle Intensément eau de parfum for women,84.10,50 ml,In stock,In stock,16014084,Competitor,2023-11-12,Notino
+Fragrance,Womens Fragrance,Prada,Paradoxe eau de parfum refillable for women,76.20,50 ml,In stock,In stock,16143146,Competitor,2023-11-12,Notino
